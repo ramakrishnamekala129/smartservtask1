@@ -1,0 +1,342 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://app.smartserv.io/
+Subject: 
+Date: Fri, 7 Jan 2022 11:59:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zVQ4wO4ebyp7TiK6QNsbbiwaMOiFkuYe2fiuTRdGCl----"
+
+
+------MultipartBoundary--zVQ4wO4ebyp7TiK6QNsbbiwaMOiFkuYe2fiuTRdGCl----
+Content-Type: text/html
+Content-ID: <frame-6ECF9133273AD1DA8A4EFD020368A794@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://app.smartserv.io/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
+OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"3"></td><td class=3D"line-=
+content"><br></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td c=
+lass=3D"line-content"><span class=3D"html-tag">&lt;head&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"5"></td><td class=3D"line-content">=
+    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">c=
+harset</span>=3D"<span class=3D"html-attribute-value">utf-8</span>"&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"6"></td><td class=3D"li=
+ne-content">    <span class=3D"html-comment">&lt;!-- Disable caching--&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"7"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-at=
+tribute-name">http-equiv</span>=3D"<span class=3D"html-attribute-value">cac=
+he-control</span>" <span class=3D"html-attribute-name">content</span>=3D"<s=
+pan class=3D"html-attribute-value">max-age=3D0</span>" /&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"8"></td><td class=3D"line-content"=
+>    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">=
+http-equiv</span>=3D"<span class=3D"html-attribute-value">cache-control</sp=
+an>" <span class=3D"html-attribute-name">content</span>=3D"<span class=3D"h=
+tml-attribute-value">no-cache</span>" /&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"9"></td><td class=3D"line-content">    <span clas=
+s=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">http-equiv</spa=
+n>=3D"<span class=3D"html-attribute-value">expires</span>" <span class=3D"h=
+tml-attribute-name">content</span>=3D"<span class=3D"html-attribute-value">=
+0</span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"10">=
+</td><td class=3D"line-content">    <span class=3D"html-tag">&lt;meta <span=
+ class=3D"html-attribute-name">http-equiv</span>=3D"<span class=3D"html-att=
+ribute-value">expires</span>" <span class=3D"html-attribute-name">content</=
+span>=3D"<span class=3D"html-attribute-value">Tue, 01 Jan 1980 1:00:00 GMT<=
+/span>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"11"></=
+td><td class=3D"line-content">    <span class=3D"html-tag">&lt;meta <span c=
+lass=3D"html-attribute-name">http-equiv</span>=3D"<span class=3D"html-attri=
+bute-value">pragma</span>" <span class=3D"html-attribute-name">content</spa=
+n>=3D"<span class=3D"html-attribute-value">no-cache</span>" /&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"12"></td><td class=3D"line-co=
+ntent"><br></td></tr><tr><td class=3D"line-number" value=3D"13"></td><td cl=
+ass=3D"line-content">    <span class=3D"html-tag">&lt;title&gt;</span>Smart=
+Serv CRM App<span class=3D"html-tag">&lt;/title&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"14"></td><td class=3D"line-content"><br></t=
+d></tr><tr><td class=3D"line-number" value=3D"15"></td><td class=3D"line-co=
+ntent">    <span class=3D"html-comment">&lt;!-- &lt;script src=3D"https://u=
+npkg.com/axios/dist/axios.min.js"&gt;&lt;/script&gt; --&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"16"></td><td class=3D"line-content"=
+>    <span class=3D"html-tag">&lt;link <span class=3D"html-attribute-name">=
+rel</span>=3D"<span class=3D"html-attribute-value">shortcut icon</span>" <s=
+pan class=3D"html-attribute-name">type</span>=3D"<span class=3D"html-attrib=
+ute-value">image/x-icon</span>" <span class=3D"html-attribute-name">href</s=
+pan>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_bla=
+nk" href=3D"https://app.smartserv.io/images/favicon.ico" rel=3D"noreferrer =
+noopener">images/favicon.ico</a>" /&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"17"></td><td class=3D"line-content">    <span class=3D"=
+html-tag">&lt;link <span class=3D"html-attribute-name">href</span>=3D'<a cl=
+ass=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"h=
+ttps://fonts.googleapis.com/css?family=3DRoboto:400,500,300" rel=3D"norefer=
+rer noopener">https://fonts.googleapis.com/css?family=3DRoboto:400,500,300<=
+/a>' <span class=3D"html-attribute-name">rel</span>=3D'<span class=3D"html-=
+attribute-value">stylesheet</span>' <span class=3D"html-attribute-name">typ=
+e</span>=3D'<span class=3D"html-attribute-value">text/css</span>'&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"18"></td><td class=3D"lin=
+e-content">    <span class=3D"html-comment">&lt;!-- &lt;script type=3D"text=
+/javascript" src=3D"https://cloudfront.loggly.com/js/loggly.tracker-2.1.min=
+.js" async&gt;&lt;/script&gt; --&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"19"></td><td class=3D"line-content">    <span class=3D"htm=
+l-tag">&lt;script <span class=3D"html-attribute-name">type</span>=3D"<span =
+class=3D"html-attribute-value">text/javascript</span>" <span class=3D"html-=
+attribute-name">src</span>=3D"<a class=3D"html-attribute-value html-resourc=
+e-link" target=3D"_blank" href=3D"https://www.datadoghq-browser-agent.com/d=
+atadog-logs-v3.js" rel=3D"noreferrer noopener">https://www.datadoghq-browse=
+r-agent.com/datadog-logs-v3.js</a>"&gt;</span><span class=3D"html-tag">&lt;=
+/script&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"20"></td=
+><td class=3D"line-content">    <span class=3D"html-tag">&lt;script&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"21"></td><td class=3D"l=
+ine-content">        // var _LTracker =3D _LTracker || [];</td></tr><tr><td=
+ class=3D"line-number" value=3D"22"></td><td class=3D"line-content">       =
+ // _LTracker.push({</td></tr><tr><td class=3D"line-number" value=3D"23"></=
+td><td class=3D"line-content">        //     'logglyKey': '9922052f-3275-48=
+8c-9815-c039e8bbae28',</td></tr><tr><td class=3D"line-number" value=3D"24">=
+</td><td class=3D"line-content">        //     'sendConsoleErrors': true,</=
+td></tr><tr><td class=3D"line-number" value=3D"25"></td><td class=3D"line-c=
+ontent">        //     'tag': 'Jova CRM Web'</td></tr><tr><td class=3D"line=
+-number" value=3D"26"></td><td class=3D"line-content">        // });</td></=
+tr><tr><td class=3D"line-number" value=3D"27"></td><td class=3D"line-conten=
+t"><br></td></tr><tr><td class=3D"line-number" value=3D"28"></td><td class=
+=3D"line-content">        var stylesheetsArr =3D [</td></tr><tr><td class=
+=3D"line-number" value=3D"29"></td><td class=3D"line-content">            '=
+&lt;link media=3D"all" rel=3D"stylesheet" type=3D"text/css" href=3D"css/app=
+/rtwc.css',</td></tr><tr><td class=3D"line-number" value=3D"30"></td><td cl=
+ass=3D"line-content">            '&lt;link media=3D"all" rel=3D"stylesheet"=
+ type=3D"text/css" href=3D"css/app/rtwc-r.css',</td></tr><tr><td class=3D"l=
+ine-number" value=3D"31"></td><td class=3D"line-content">            '&lt;l=
+ink media=3D"print" rel=3D"stylesheet" type=3D"text/css" href=3D"css/app/pr=
+int.css',</td></tr><tr><td class=3D"line-number" value=3D"32"></td><td clas=
+s=3D"line-content">            '&lt;link media=3D"all" rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"css/libs/jquery-ui.css',</td></tr><tr><td class=3D=
+"line-number" value=3D"33"></td><td class=3D"line-content">            '&lt=
+;link media=3D"all" rel=3D"stylesheet" type=3D"text/css" href=3D"css/app/rt=
+wc-new.css',</td></tr><tr><td class=3D"line-number" value=3D"34"></td><td c=
+lass=3D"line-content">            '&lt;link media=3D"all" rel=3D"stylesheet=
+" type=3D"text/css" href=3D"css/libs/multiple-select.css'</td></tr><tr><td =
+class=3D"line-number" value=3D"35"></td><td class=3D"line-content">        =
+];</td></tr><tr><td class=3D"line-number" value=3D"36"></td><td class=3D"li=
+ne-content">        var scriptsArrCommon =3D [</td></tr><tr><td class=3D"li=
+ne-number" value=3D"37"></td><td class=3D"line-content">            //diff =
+modules,libs and so on</td></tr><tr><td class=3D"line-number" value=3D"38">=
+</td><td class=3D"line-content">            "js/app/keys.js",</td></tr><tr>=
+<td class=3D"line-number" value=3D"39"></td><td class=3D"line-content">    =
+        "js/app/api-keys.js",</td></tr><tr><td class=3D"line-number" value=
+=3D"40"></td><td class=3D"line-content">            "js/libs/handlebars.js"=
+,</td></tr><tr><td class=3D"line-number" value=3D"41"></td><td class=3D"lin=
+e-content">            "js/libs/parse-1.4.2.min.js",</td></tr><tr><td class=
+=3D"line-number" value=3D"42"></td><td class=3D"line-content">            "=
+js/libs/jquery-2.1.3.min.js",</td></tr><tr><td class=3D"line-number" value=
+=3D"43"></td><td class=3D"line-content">            "js/libs/jquery-ui.js",=
+</td></tr><tr><td class=3D"line-number" value=3D"44"></td><td class=3D"line=
+-content">            "js/libs/underscore.js",</td></tr><tr><td class=3D"li=
+ne-number" value=3D"45"></td><td class=3D"line-content">            "js/lib=
+s/backbone.js",</td></tr><tr><td class=3D"line-number" value=3D"46"></td><t=
+d class=3D"line-content">            "js/libs/moment.min.js",</td></tr><tr>=
+<td class=3D"line-number" value=3D"47"></td><td class=3D"line-content">    =
+        "js/libs/jquery.maskedinput.min.js",</td></tr><tr><td class=3D"line=
+-number" value=3D"48"></td><td class=3D"line-content">            "js/libs/=
+axios.min.js",</td></tr><tr><td class=3D"line-number" value=3D"49"></td><td=
+ class=3D"line-content">            "js/dist/template-all.js",</td></tr><tr=
+><td class=3D"line-number" value=3D"50"></td><td class=3D"line-content">   =
+         //Float:label</td></tr><tr><td class=3D"line-number" value=3D"51">=
+</td><td class=3D"line-content">            "js/libs/floatlabels.js",</td><=
+/tr><tr><td class=3D"line-number" value=3D"52"></td><td class=3D"line-conte=
+nt">            "js/libs/multiple-select.js",</td></tr><tr><td class=3D"lin=
+e-number" value=3D"53"></td><td class=3D"line-content">            //"js/li=
+bs/zopim_live_chat.min.js"</td></tr><tr><td class=3D"line-number" value=3D"=
+54"></td><td class=3D"line-content">            /*</td></tr><tr><td class=
+=3D"line-number" value=3D"55"></td><td class=3D"line-content">            *=
+ COMMON SMARTSERV FILES</td></tr><tr><td class=3D"line-number" value=3D"56"=
+></td><td class=3D"line-content">            */</td></tr><tr><td class=3D"l=
+ine-number" value=3D"57"></td><td class=3D"line-content">            "js/ap=
+p/RTapp.js",</td></tr><tr><td class=3D"line-number" value=3D"58"></td><td c=
+lass=3D"line-content">            "js/app/base/constants.js",</td></tr><tr>=
+<td class=3D"line-number" value=3D"59"></td><td class=3D"line-content">    =
+    ];</td></tr><tr><td class=3D"line-number" value=3D"60"></td><td class=
+=3D"line-content">        //devo branches</td></tr><tr><td class=3D"line-nu=
+mber" value=3D"61"></td><td class=3D"line-content">        var scriptsArrDe=
+vo =3D [</td></tr><tr><td class=3D"line-number" value=3D"62"></td><td class=
+=3D"line-content">            "js/app/base/util.js",</td></tr><tr><td class=
+=3D"line-number" value=3D"63"></td><td class=3D"line-content">            '=
+js/sdk/services/BaseModel.js',</td></tr><tr><td class=3D"line-number" value=
+=3D"64"></td><td class=3D"line-content">            "js/sdk/services/LoginS=
+ervice.js",</td></tr><tr><td class=3D"line-number" value=3D"65"></td><td cl=
+ass=3D"line-content">            "js/app/models/companysettingsmodel.js",</=
+td></tr><tr><td class=3D"line-number" value=3D"66"></td><td class=3D"line-c=
+ontent">            "js/app/models/companymodel.js",</td></tr><tr><td class=
+=3D"line-number" value=3D"67"></td><td class=3D"line-content">            "=
+js/app/models/loginmodel.js",</td></tr><tr><td class=3D"line-number" value=
+=3D"68"></td><td class=3D"line-content">            "js/app/models/usermode=
+l.js",</td></tr><tr><td class=3D"line-number" value=3D"69"></td><td class=
+=3D"line-content">            "js/app/views/masterview.js",</td></tr><tr><t=
+d class=3D"line-number" value=3D"70"></td><td class=3D"line-content">      =
+      "js/app/views/loginview.js",</td></tr><tr><td class=3D"line-number" v=
+alue=3D"71"></td><td class=3D"line-content">            "js/app/views/signu=
+pview.js"</td></tr><tr><td class=3D"line-number" value=3D"72"></td><td clas=
+s=3D"line-content">        ];</td></tr><tr><td class=3D"line-number" value=
+=3D"73"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line=
+-number" value=3D"74"></td><td class=3D"line-content">        //production =
+branches</td></tr><tr><td class=3D"line-number" value=3D"75"></td><td class=
+=3D"line-content">        var scriptsArrProd =3D [</td></tr><tr><td class=
+=3D"line-number" value=3D"76"></td><td class=3D"line-content">            "=
+js/dist/base-all.min.js",</td></tr><tr><td class=3D"line-number" value=3D"7=
+7"></td><td class=3D"line-content">            "js/dist/sdk-all.min.js",</t=
+d></tr><tr><td class=3D"line-number" value=3D"78"></td><td class=3D"line-co=
+ntent">            "js/dist/model-all.min.js",</td></tr><tr><td class=3D"li=
+ne-number" value=3D"79"></td><td class=3D"line-content">            "js/dis=
+t/view-all.min.js"</td></tr><tr><td class=3D"line-number" value=3D"80"></td=
+><td class=3D"line-content">        ];</td></tr><tr><td class=3D"line-numbe=
+r" value=3D"81"></td><td class=3D"line-content"><br></td></tr><tr><td class=
+=3D"line-number" value=3D"82"></td><td class=3D"line-content">        // Us=
+e grunt to replace strings here</td></tr><tr><td class=3D"line-number" valu=
+e=3D"83"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"lin=
+e-number" value=3D"84"></td><td class=3D"line-content">        var appVersi=
+on =3D '1641550194256'; //string-replace:version  '1453464266982'</td></tr>=
+<tr><td class=3D"line-number" value=3D"85"></td><td class=3D"line-content">=
+        var appMinify =3D 'true'; //string-replace:minify 'true'</td></tr><=
+tr><td class=3D"line-number" value=3D"86"></td><td class=3D"line-content"><=
+br></td></tr><tr><td class=3D"line-number" value=3D"87"></td><td class=3D"l=
+ine-content">        var str =3D '';</td></tr><tr><td class=3D"line-number"=
+ value=3D"88"></td><td class=3D"line-content">        var i =3D 0;</td></tr=
+><tr><td class=3D"line-number" value=3D"89"></td><td class=3D"line-content"=
+>        var curStylesheetsArr =3D stylesheetsArr;</td></tr><tr><td class=
+=3D"line-number" value=3D"90"></td><td class=3D"line-content">        var c=
+urScriptsArr =3D appMinify =3D=3D=3D 'true' ? scriptsArrCommon.concat(scrip=
+tsArrProd) : scriptsArrCommon.concat(scriptsArrDevo);</td></tr><tr><td clas=
+s=3D"line-number" value=3D"91"></td><td class=3D"line-content">        var =
+len =3D curStylesheetsArr.length;</td></tr><tr><td class=3D"line-number" va=
+lue=3D"92"></td><td class=3D"line-content">        for (i =3D 0; i &lt; len=
+; i++) {</td></tr><tr><td class=3D"line-number" value=3D"93"></td><td class=
+=3D"line-content">            str +=3D curStylesheetsArr[i] + '?v=3D' + app=
+Version + '"/&gt;';</td></tr><tr><td class=3D"line-number" value=3D"94"></t=
+d><td class=3D"line-content">        }</td></tr><tr><td class=3D"line-numbe=
+r" value=3D"95"></td><td class=3D"line-content">        len =3D curScriptsA=
+rr.length</td></tr><tr><td class=3D"line-number" value=3D"96"></td><td clas=
+s=3D"line-content">        for (i =3D 0; i &lt; len; i++) {</td></tr><tr><t=
+d class=3D"line-number" value=3D"97"></td><td class=3D"line-content">      =
+      str +=3D '&lt;script src=3D"' + curScriptsArr[i] + '?v=3D' + appVersi=
+on + '" type=3D"text/javascript" charset=3D"utf-8"&gt;&lt;\/script&gt;';</t=
+d></tr><tr><td class=3D"line-number" value=3D"98"></td><td class=3D"line-co=
+ntent">        }</td></tr><tr><td class=3D"line-number" value=3D"99"></td><=
+td class=3D"line-content">        document.write(str);</td></tr><tr><td cla=
+ss=3D"line-number" value=3D"100"></td><td class=3D"line-content">    <span =
+class=3D"html-tag">&lt;/script&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"101"></td><td class=3D"line-content">    <span class=3D"html=
+-comment">&lt;!-- Google Analytics --&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"102"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;script&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"103"></td><td class=3D"line-content">        (function (i, s, o, g=
+, r, a, m) {</td></tr><tr><td class=3D"line-number" value=3D"104"></td><td =
+class=3D"line-content">            i['GoogleAnalyticsObject'] =3D r;</td></=
+tr><tr><td class=3D"line-number" value=3D"105"></td><td class=3D"line-conte=
+nt">            i[r] =3D i[r] || function () {</td></tr><tr><td class=3D"li=
+ne-number" value=3D"106"></td><td class=3D"line-content">                (i=
+[r].q =3D i[r].q || []).push(arguments)</td></tr><tr><td class=3D"line-numb=
+er" value=3D"107"></td><td class=3D"line-content">            }, i[r].l =3D=
+ 1 * new Date();</td></tr><tr><td class=3D"line-number" value=3D"108"></td>=
+<td class=3D"line-content">            a =3D s.createElement(o),</td></tr><=
+tr><td class=3D"line-number" value=3D"109"></td><td class=3D"line-content">=
+                m =3D s.getElementsByTagName(o)[0];</td></tr><tr><td class=
+=3D"line-number" value=3D"110"></td><td class=3D"line-content">            =
+a.async =3D 1;</td></tr><tr><td class=3D"line-number" value=3D"111"></td><t=
+d class=3D"line-content">            a.src =3D g;</td></tr><tr><td class=3D=
+"line-number" value=3D"112"></td><td class=3D"line-content">            m.p=
+arentNode.insertBefore(a, m)</td></tr><tr><td class=3D"line-number" value=
+=3D"113"></td><td class=3D"line-content">        })(window, document, 'scri=
+pt', 'https://www.google-analytics.com/analytics.js', 'ga');</td></tr><tr><=
+td class=3D"line-number" value=3D"114"></td><td class=3D"line-content"><br>=
+</td></tr><tr><td class=3D"line-number" value=3D"115"></td><td class=3D"lin=
+e-content">        ga('create', 'UA-104217217-2', 'auto');</td></tr><tr><td=
+ class=3D"line-number" value=3D"116"></td><td class=3D"line-content">      =
+  ga('send', 'pageview');</td></tr><tr><td class=3D"line-number" value=3D"1=
+17"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/scrip=
+t&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"118"></td><td =
+class=3D"line-content">    <span class=3D"html-comment">&lt;!-- End Google =
+Analytics --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"119=
+"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"120"></td><td class=3D"line-content">    <span class=3D"html-co=
+mment">&lt;!--  start of segment --&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"121"></td><td class=3D"line-content">    <span class=3D=
+"html-tag">&lt;script <span class=3D"html-attribute-name">type</span>=3D"<s=
+pan class=3D"html-attribute-value">text/javascript</span>"&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"122"></td><td class=3D"line-cont=
+ent">        !function () {</td></tr><tr><td class=3D"line-number" value=3D=
+"123"></td><td class=3D"line-content">            var analytics =3D window.=
+analytics =3D window.analytics || []; if (!analytics.initialize) if (analyt=
+ics.invoked) window.console &amp;&amp; console.error &amp;&amp; console.err=
+or("Segment snippet included twice."); else {</td></tr><tr><td class=3D"lin=
+e-number" value=3D"124"></td><td class=3D"line-content">                ana=
+lytics.invoked =3D !0; analytics.methods =3D ["trackSubmit", "trackClick", =
+"trackLink", "trackForm", "pageview", "identify", "reset", "group", "track"=
+, "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factor=
+y =3D function (t) { return function () { var e =3D Array.prototype.slice.c=
+all(arguments); e.unshift(t); analytics.push(e); return analytics } }; for =
+(var t =3D 0; t &lt; analytics.methods.length; t++) { var e =3D analytics.m=
+ethods[t]; analytics[e] =3D analytics.factory(e) } analytics.load =3D funct=
+ion (t, e) { var n =3D document.createElement("script"); n.type =3D "text/j=
+avascript"; n.async =3D !0; n.src =3D "https://cdn.segment.com/analytics.js=
+/v1/" + t + "/analytics.min.js"; var a =3D document.getElementsByTagName("s=
+cript")[0]; a.parentNode.insertBefore(n, a); analytics._loadOptions =3D e }=
+; analytics.SNIPPET_VERSION =3D "4.1.0";</td></tr><tr><td class=3D"line-num=
+ber" value=3D"125"></td><td class=3D"line-content">                analytic=
+s.load("fFq7HfmalaPZNF4Ogva9Mu5mFuS8CQ89");</td></tr><tr><td class=3D"line-=
+number" value=3D"126"></td><td class=3D"line-content">                analy=
+tics.page();</td></tr><tr><td class=3D"line-number" value=3D"127"></td><td =
+class=3D"line-content">            }</td></tr><tr><td class=3D"line-number"=
+ value=3D"128"></td><td class=3D"line-content">        }();</td></tr><tr><t=
+d class=3D"line-number" value=3D"129"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;/script&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"130"></td><td class=3D"line-content">    <span class=3D=
+"html-comment">&lt;!--  End of segment --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"131"></td><td class=3D"line-content"><br></td></t=
+r><tr><td class=3D"line-number" value=3D"132"></td><td class=3D"line-conten=
+t"><span class=3D"html-tag">&lt;/head&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"133"></td><td class=3D"line-content"><br></td></tr><t=
+r><td class=3D"line-number" value=3D"134"></td><td class=3D"line-content"><=
+span class=3D"html-tag">&lt;body&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"135"></td><td class=3D"line-content">    <span class=3D"ht=
+ml-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span c=
+lass=3D"html-attribute-value">loader</span>"&gt;</span> <span class=3D"html=
+-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+36"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-num=
+ber" value=3D"137"></td><td class=3D"line-content">    <span class=3D"html-=
+tag">&lt;div <span class=3D"html-attribute-name">id</span>=3D"<span class=
+=3D"html-attribute-value">page</span>"&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"138"></td><td class=3D"line-content">        <span c=
+lass=3D"html-tag">&lt;header <span class=3D"html-attribute-name">id</span>=
+=3D"<span class=3D"html-attribute-value">header</span>"&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"139"></td><td class=3D"line-content=
+">        <span class=3D"html-tag">&lt;/header&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"140"></td><td class=3D"line-content">       =
+ <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">id</s=
+pan>=3D"<span class=3D"html-attribute-value">rtLogin</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"141"></td><td class=3D"line-co=
+ntent">            <span class=3D"html-tag">&lt;div <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">content</=
+span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"142"></td><td class=3D"line-content">   =
+     <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D=
+"line-number" value=3D"143"></td><td class=3D"line-content">    <span class=
+=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"144"></td><td class=3D"line-content">    <span class=3D"html-tag">&l=
+t;div <span class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-=
+attribute-value">dialog_box</span>"&gt;</span><span class=3D"html-tag">&lt;=
+/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"145"></td><=
+td class=3D"line-content"><span class=3D"html-tag">&lt;/body&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"146"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">&lt;script&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"147"></td><td class=3D"line-content">    $("#pag=
+e").css("min-height", $(window).height() - 40);</td></tr><tr><td class=3D"l=
+ine-number" value=3D"148"></td><td class=3D"line-content"><span class=3D"ht=
+ml-tag">&lt;/script&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"149"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"lin=
+e-number" value=3D"150"></td><td class=3D"line-content"><span class=3D"html=
+-tag">&lt;/html&gt;</span><span class=3D"html-end-of-file"></span></td></tr=
+></tbody></table></body></html>
+------MultipartBoundary--zVQ4wO4ebyp7TiK6QNsbbiwaMOiFkuYe2fiuTRdGCl------
